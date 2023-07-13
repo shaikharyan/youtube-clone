@@ -1,8 +1,6 @@
-<video width="320" height="240" controls>
-  <source src="yt.mp4" type="video/mp4">
-  <source src="yt.ogg" type="video/ogg">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/shaikharyan/youtube-clone/assets/103252725/1c5973e1-867b-4824-8529-e9ad2287466a
+
 
 
 
