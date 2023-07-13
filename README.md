@@ -1,3 +1,11 @@
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="yt/mp4">
+  <source src="movie.ogg" type="yt/ogg">
+  Your browser does not support the video tag.
+</video>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
